@@ -16,7 +16,6 @@ namespace AutomationTask.Base_Class
     {
         public IWebDriver driver;
         [SetUp]
-
         public void Open()
         {
             //Open firfoxDiver
