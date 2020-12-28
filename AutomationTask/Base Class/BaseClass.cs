@@ -14,6 +14,7 @@ namespace AutomationTask.Base_Class
 
     public class BaseClass
     {
+
         public IWebDriver driver;
         [SetUp]
         public void Open()
